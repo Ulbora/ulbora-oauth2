@@ -1,7 +1,7 @@
 Ulbora Oauth2 
 =============
 
-ulbora-oauth2 is an Oauth2 node module for use with token validation build in [Ulbora Oauth2 Server](https://github.com/Ulbora/nodeJsOauth2Server).
+ulbora-oauth2 is an Oauth2 node module for use with token validation built in <a href="https://github.com/Ulbora/nodeJsOauth2Server" target="_blank">Ulbora Oauth2 Server</a> [Ulbora Oauth2 Server](https://github.com/Ulbora/nodeJsOauth2Server).
 The module makes securing REST services easy.
 
 ## Using
